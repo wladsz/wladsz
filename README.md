@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wladsz
 - 👀 I’m interested in coding, travel, railways and architecture
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
     - instagram: wladsz
     - telegram: wladsz
